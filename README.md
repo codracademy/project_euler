@@ -1,8 +1,7 @@
 **Warning - This site contains spoilers. Please close this page immediately if you wish to solve the problems yourself.**
 
-* **Solutions**: https://github.com/luckytoilet/projecteuler-solutions/blob/master/Solutions.md
-* **Forums**: https://www.tapatalk.com/groups/eulersolutionsfr/
-* **Maintained by**: luckytoilet@gmail.com
+* **Solutions**:  https://github.com/luckytoilet/projecteuler-solutions/blob/master/Solutions.md](https://github.com/codracademy/project_euler/blob/master/Solutions.md
+* **Maintained by**: codracademy69@gmail.com
 
 ### What is Project Euler?
 
