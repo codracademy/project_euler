@@ -1,7 +1,7 @@
 ```
-Project Euler solutions collected by Luckytoilet and others.
-https://github.com/luckytoilet/projecteuler-solutions
-https://www.tapatalk.com/groups/eulersolutionsfr/
+Project Euler solutions collected by Luckytoilet and CODR
+
+
 1. 233168
 2. 4613732
 3. 6857
